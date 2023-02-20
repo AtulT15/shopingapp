@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/shopingapp/static/css/main.3e250181.css",
+    "main.js": "/shopingapp/static/js/main.99f35318.js",
+    "static/media/electronic.png": "/shopingapp/static/media/electronic.657012519af3bfea32f7.png",
+    "static/media/womenclothing.png.png": "/shopingapp/static/media/womenclothing.png.4be46a53e743893a81e7.png",
+    "static/media/womencloth.jpeg": "/shopingapp/static/media/womencloth.7b6837735632d1e5b167.jpeg",
+    "static/media/electronic.jpeg": "/shopingapp/static/media/electronic.74b270489da59fac7165.jpeg",
+    "static/media/mensclothing.jpeg": "/shopingapp/static/media/mensclothing.ce831882933dbbe722ad.jpeg",
+    "static/media/mens-clothing.png.png": "/shopingapp/static/media/mens-clothing.png.ba1cc72c60d3254b21e5.png",
+    "static/media/jewelary.jpeg": "/shopingapp/static/media/jewelary.7a2b13c033cf40e521b9.jpeg",
+    "static/media/all.png": "/shopingapp/static/media/all.2e36032b8a0e15e7349d.png",
+    "static/media/jewellary.png": "/shopingapp/static/media/jewellary.e2cca5b839f1082553ad.png",
+    "index.html": "/shopingapp/index.html",
+    "main.3e250181.css.map": "/shopingapp/static/css/main.3e250181.css.map",
+    "main.99f35318.js.map": "/shopingapp/static/js/main.99f35318.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e250181.css",
+    "static/js/main.99f35318.js"
+  ]
+}
